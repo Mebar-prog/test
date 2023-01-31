@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is file2 or version 2 added
+=======
+this is file 2 for version 2
+
+>>>>>>> bug#1
